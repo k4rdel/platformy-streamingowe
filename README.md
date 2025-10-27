@@ -17,12 +17,12 @@ Tabela przedstawia porównanie popularnych platform streamingowych, uwzględniaj
 
 | Platforma     | Typ Treści                 | Liczba Użytkowników (2024) | Model Subskrypcji            |
 |---------------|----------------------------|----------------------------|------------------------------|
-| **Spotify**   | Muzyka, Podcasty           | 500+ milionów MAU          | Freemium (darmowy/płatny)    |
-| **Netflix**   | Filmy, Seriale, Dokumenty  | 230+ milionów MAU          | Subskrypcyjny (SVOD)         |
-| **Disney+**   | Filmy, Seriale, Disney, Marvel, Star Wars | 240 milionów MAU     | Subskrypcyjny (SVOD)         |
-| **HBO Max**   | Filmy, Seriale, Dokumenty  | 100+ milionów MAU          | Subskrypcyjny (SVOD)         |
-| **Twitch**    | Streaming gier, Rozrywka   | 140 milionów MAU           | Darmowy (reklamy), subskrypcje |
-| **YouTube**   | Filmy, Seriale, Muzyka     | 2.7 miliarda MAU           | Darmowy (reklamy), Premium   |
+| **Spotify**   | Muzyka, Podcasty           | 500+ milionów           |  darmowy/płatny    |
+| **Netflix**   | Filmy, Seriale, Dokumenty  | 230+ milionów           | Subskrypcyjny         |
+| **Disney+**   | Filmy, Seriale, Disney, Marvel, Star Wars | 240 milionów     | Subskrypcyjny          |
+| **HBO Max**   | Filmy, Seriale, Dokumenty  | 100+ milionów           | Subskrypcyjny          |
+| **Twitch**    | Streaming gier, Rozrywka   | 140 milionów           | Darmowy/subskrypcje |
+| **YouTube**   | Filmy, Seriale, Muzyka     | 2.7 miliarda            | Darmowy/Premium   |
 
 # OBRAZY
 ![platformy](https://images.gram.pl/news/zsho20220917193551072oiii.jpg)
