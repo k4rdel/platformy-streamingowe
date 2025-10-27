@@ -23,3 +23,6 @@ Tabela przedstawia porównanie popularnych platform streamingowych, uwzględniaj
 | **HBO Max**   | Filmy, Seriale, Dokumenty  | 100+ milionów MAU          | Subskrypcyjny (SVOD)         |
 | **Twitch**    | Streaming gier, Rozrywka   | 140 milionów MAU           | Darmowy (reklamy), subskrypcje |
 | **YouTube**   | Filmy, Seriale, Muzyka     | 2.7 miliarda MAU           | Darmowy (reklamy), Premium   |
+
+# OBRAZY
+![platformy](https://images.gram.pl/news/zsho20220917193551072oiii.jpg)
