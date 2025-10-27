@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<platformy>
+    <youtube>
+        <nazwa>YouTube</nazwa>
+        <tresci>Filmy, Transmisje live, Muzyka, Podcasty</tresci>
+        <ilosc_uzytkownikow jednostka="milardy">2.5</ilosc_uzytkownikow>
+        <cena_abonamentu cena="zł">0 , 29.99</cena_abonamentu>
+    </youtube>
+    <twitch>
+        <nazwa>Twitch</nazwa>
+        <tresci>Transmisje live</tresci>
+        <ilosc_uzytkownikow jednostka="miliony">10</ilosc_uzytkownikow>
+        <cena_abonamentu cena="zł">0</cena_abonamentu>
+    </twitch>
+    <kick>
+        <nazwa>Kick</nazwa>
+        <tresci>Transmisje live</tresci>
+        <ilosc_uzytkownikow jednostka="miliony">1 milion</ilosc_uzytkownikow>
+        <cena_abonamentu cena="zł">0</cena_abonamentu>
+    </kick>
+    <netflix>
+        <nazwa>netflix</nazwa>
+        <tresci>Filmy, Seriale</tresci>
+        <ilosc_uzytkownikow jednostka="miliony">301.6</ilosc_uzytkownikow>
+        <cena_abonamentu cena="zł">34.99</cena_abonamentu>
+    </netflix>
+    <disneyplus>
+        <nazwa>disneyplus</nazwa>
+        <tresci>Filmy, Seriale</tresci>
+        <ilosc_uzytkownikow jednostka="miliony">150</ilosc_uzytkownikow>
+        <cena_abonamentu cena="zł">34.99</cena_abonamentu>
+    </disneyplus>
+    <primevideo>
+        <nazwa>primevideo</nazwa>
+        <tresci>Filmy, Seriale</tresci>
+        <ilosc_uzytkownikow jednostka="miliony">230</ilosc_uzytkownikow>
+        <cena_abonamentu cena="zł">10.99</cena_abonamentu>
+    </primevideo>
+</platformy>
