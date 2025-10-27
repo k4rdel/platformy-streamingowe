@@ -1,0 +1,8 @@
+{
+    "nazwa": "Disney+",
+    "ilosc_uzytkownikow": 10000000,
+    "cena_abonamentu": 39.99,
+    "czy_multiplatformowa": true,
+    "kategorie": ["disney", "star wars", "pixar", "marvel"],
+    "rodzaje_tresci": {"filmy": true, "seriale": true, "telewizja": false}
+}
