@@ -26,3 +26,4 @@ Tabela przedstawia porównanie popularnych platform streamingowych, uwzględniaj
 
 # OBRAZY
 ![platformy](https://images.gram.pl/news/zsho20220917193551072oiii.jpg)
+![obraz](obraz.webp)
