@@ -1,0 +1,37 @@
+[
+    {
+        "nazwa": "Netflix",
+        "czy_dostepne_w_UE": true,
+        "ilosc_tresci": 15000000,
+        "cena_za_miesiac": 49.99,
+        "czy_multiplatformowa": true
+    },
+    {
+        "nazwa": "Disney+",
+        "czy_dostepne_w_UE": true,
+        "ilosc_tresci": 100000,
+        "cena_za_miesiac": 29.99,
+        "czy_multiplatformowa": true
+    },
+    {
+        "nazwa": "Canal+",
+        "czy_dostepne_w_UE": true,
+        "ilosc_tresci": 600000,
+        "cena_za_miesiac": 79.99,
+        "czy_multiplatformowa": false
+    },
+    {
+        "nazwa": "F1TV",
+        "czy_dostepne_w_UE": true,
+        "ilosc_tresci": 3400000,
+        "cena_za_miesiac": 99.99,
+        "czy_multiplatformowa": true
+    },
+    {
+        "nazwa": "YouTube Premium",
+        "czy_dostepne_w_UE": true,
+        "ilosc_tresci": 80000000,
+        "cena_za_miesiac": 19.99,
+        "czy_multiplatformowa": true
+    }
+]
